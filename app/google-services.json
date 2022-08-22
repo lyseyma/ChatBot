@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "925328915917",
+    "project_id": "chatboot-cb93e",
+    "storage_bucket": "chatboot-cb93e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925328915917:android:dda3cc9f9da3455bf61884",
+        "android_client_info": {
+          "package_name": "com.seyma.chatboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925328915917-4jgvej92o93f5qul4rqrtgfutk6bdp7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLuqidpwVTDiNJJzpihsU1VL-FAxa_ISw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925328915917-4jgvej92o93f5qul4rqrtgfutk6bdp7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925328915917:android:2e55d5cbb49e24f9f61884",
+        "android_client_info": {
+          "package_name": "com.seyma.symbolprocessing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925328915917-4jgvej92o93f5qul4rqrtgfutk6bdp7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLuqidpwVTDiNJJzpihsU1VL-FAxa_ISw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925328915917-4jgvej92o93f5qul4rqrtgfutk6bdp7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
